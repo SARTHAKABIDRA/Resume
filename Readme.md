@@ -28,13 +28,6 @@
 <br clear="right"/>
 
 ---
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" height="30"> Tech Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
 ### Languages & Core Tech
 <p align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
@@ -66,10 +59,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
 
 ---
 
@@ -131,7 +120,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-9d99-ca151a9e0e98.png" width="30" height="30"> Let's Connect
+## Let's Connect
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62a.gif" width="400">
