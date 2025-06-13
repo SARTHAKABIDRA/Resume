@@ -35,35 +35,28 @@ Currently exploring Edge Computing and Cloud Technologies
 <div align="center">
 
 | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/> |
-|:---:|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20" height="20"/> **Java** | <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="20" height="20"/> **Python** | <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20" height="20"/> **JavaScript** | <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20" height="20"/> **MySQL** |
+|
 
 </div>
 
 ### 🎨 Frontend Universe
 <div align="center">
 
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257470-6c6ad44e-0cd5-44a1-b001-e1e7a73cd5ca.gif" width="65" height="65"/> |
-|:---:|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="20" height="20"/> **React** | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="20" height="20"/> **Next.js** | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20" height="20"/> **HTML5** | <img src="https://user-images.githubusercontent.com/74038190/212257470-6c6ad44e-0cd5-44a1-b001-e1e7a73cd5ca.gif" width="20" height="20"/> **CSS3** |
+| <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/> |
 
 </div>
 
 ### ⚙️ Backend & Cloud
 <div align="center">
 
-| <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aee-fbd1-497c-8e4d-629608ff7894.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257473-4c1c9254-ca3c-4efc-9e03-b3eae33308a6.gif" width="65" height="65"/> |
-|:---:|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aee-fbd1-497c-8e4d-629608ff7894.gif" width="20" height="20"/> **Node.js** | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="20" height="20"/> **Express** | <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20" height="20"/> **Docker** | <img src="https://user-images.githubusercontent.com/74038190/212257473-4c1c9254-ca3c-4efc-9e03-b3eae33308a6.gif" width="20" height="20"/> **GCP** |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=express" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65"/> |
 
 </div>
 
 ### 🤖 AI & Data Science
 <div align="center">
 
-| <img src="https://user-images.githubusercontent.com/74038190/212257456-2d8dd0c1-2b42-4e68-9b82-8c4bfb2e4b74.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257459-3b59c7e4-0a8c-4a00-b7a4-5fcf3ca8ea8b.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257462-48c1b32e-d171-4981-b321-7d4f7e3b0e8d.gif" width="65" height="65"/> | <img src="https://user-images.githubusercontent.com/74038190/212257464-8c35ac4e-6a86-4d9e-a298-4a5f8b7d3ccb.gif" width="65" height="65"/> |
-|:---:|:---:|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/74038190/212257456-2d8dd0c1-2b42-4e68-9b82-8c4bfb2e4b74.gif" width="20" height="20"/> **Scikit-learn** | <img src="https://user-images.githubusercontent.com/74038190/212257459-3b59c7e4-0a8c-4a00-b7a4-5fcf3ca8ea8b.gif" width="20" height="20"/> **NumPy** | <img src="https://user-images.githubusercontent.com/74038190/212257462-48c1b32e-d171-4981-b321-7d4f7e3b0e8d.gif" width="20" height="20"/> **Pandas** | <img src="https://user-images.githubusercontent.com/74038190/212257464-8c35ac4e-6a86-4d9e-a298-4a5f8b7d3ccb.gif" width="20" height="20"/> **TensorFlow** |
+| <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svgf" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65"/> |
 
 </div>
 
@@ -71,16 +64,14 @@ Currently exploring Edge Computing and Cloud Technologies
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" height="30"> Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" height="25"> **Smart HealthCare Model**
+
+**Smart HealthCare Model**
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 
 *Disease Prediction & Drug Recommendation System*
 
-- <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="20" height="20"/> Built ML model using **Random Forest** and **Gaussian Naive Bayes**
+-  Built ML model using **Random Forest** and **Gaussian Naive Bayes**
 - <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20" height="20"/> Achieved improved accuracy in disease prediction  
 - <img src="https://user-images.githubusercontent.com/74038190/212257456-2d8dd0c1-2b42-4e68-9b82-8c4bfb2e4b74.gif" width="20" height="20"/> Enhanced clinical decision support capabilities
 - **Stack:** Python, Scikit-learn, Google Colab
