@@ -16,7 +16,8 @@
 ---
  About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-My path is clear: as a fresher, to meticulously build and optimize with Java, Python, and JavaScript, laying down the foundational code that secures your company's legacy and propels us toward unparalleled success.
+
+B.Tech in Information Technology from MITS, Gwalior (CGPA: 7.72/10)
 Full Stack Developer with expertise in Java, Python & JavaScript
 Machine Learning Enthusiast specializing in healthcare and tourism analytics
 Currently exploring Edge Computing and Cloud Technologies
