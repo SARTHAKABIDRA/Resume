@@ -6,10 +6,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Java+%7C+Python+%7C+JavaScript;Building+Tomorrow's+Solutions+Today)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
-  <img src="https://github.com/SARTHAKABIDRA.png" alt="Sarthak Abidra" width="120" height="120" style="border-radius: 50%; border: 4px solid #00d4aa; box-shadow: 0 0 20px rgba(0, 212, 170, 0.3);">
-</div>
-
 <p align="center">
   <em>Building and optimizing with precision, laying down foundational code that secures legacy and propels toward unparalleled success.</em>
 </p>
@@ -31,50 +27,6 @@
 - **Contact:** sarthakabidra7@gmail.com
 
 <br clear="right"/>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" height="30"> Tech Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
-### Languages & Core Tech
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
-</p>
-
-### Frontend Universe
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/>
-</p>
-
-### Backend & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=express" width="55" height="55"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55"/>
-</p>
-
-### AI & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
 
 ---
 
@@ -102,44 +54,12 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8df9a6-cd37-4997-80b5-67b0755c7d5a.png" width="30" height="30"> Achievements & Certifications
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-| **Certification** | **Institution** | **Badge** |
-|:---:|:---:|:---:|
-| Edge Computing | NPTEL, IIT Kanpur | **Silver** |
-| Foundation of Cloud IoT Edge ML | NPTEL, IIT Kanpur | **Completed** |
-| Google Cloud Computing Foundations | NPTEL, IIT Kharagpur | **Completed** |
-| Big Data Computing | NPTEL, IIT Kanpur | **Completed** |
-| Hackathon - Capture the Flag 2024 | KPMG | **Winner** |
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122008-ec3ba7ef-2b73-4821-8057-74c7b59c6825.png" width="30" height="30"> Leadership & Impact
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223268-182971e5-6b4a-4bae-a9b3-b22d8d24dd31.gif" width="280">
-
-**Management Team Member** - GeeksforGeeks MITS Chapter
-- Led cross-functional student teams for coding events
-- Improved team efficiency and participation by **30%**
-- Streamlined coordination and productivity strategies
-
-**Event Management Volunteer** - Google Cloud Community Day
-- Coordinated logistics for **200+ participants**
-- Ensured seamless communication across teams  
-- Contributed to successful high-impact tech conference
-
-<br clear="right"/>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-9d99-ca151a9e0e98.png" width="30" height="30"> Let's Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62a.gif" width="400">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
 </div>
 
 <div align="center">
@@ -161,7 +81,5 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
   <strong>Star my repositories if you find them interesting!</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 </div>
