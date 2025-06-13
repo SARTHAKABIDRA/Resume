@@ -98,7 +98,7 @@
 | Foundation of Cloud IoT Edge ML | NPTEL, IIT Kanpur | **Completed** |
 | Google Cloud Computing Foundations | NPTEL, IIT Kharagpur | **Completed** |
 | Big Data Computing | NPTEL, IIT Kanpur | **Completed** |
-| Hackathon - Capture the Flag 2024 | KPMG | **Winner** |
+| Hackathon - Capture the Flag 2024 | KPMG | **Participated** |
 
 ---
 
@@ -114,7 +114,7 @@
 **Event Management Volunteer** - Google Cloud Community Day
 - Coordinated logistics for **200+ participants**
 - Ensured seamless communication across teams  
-- Contributed to successful high-impact tech conference
+- Contributed to a successful high-impact tech conference
 
 <br clear="right"/>
 
