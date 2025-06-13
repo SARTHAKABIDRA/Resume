@@ -56,7 +56,7 @@ Currently exploring Edge Computing and Cloud Technologies
 ### 🤖 AI & Data Science
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svgf" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65"/> |
+| <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65"/> |
 
 </div>
 
