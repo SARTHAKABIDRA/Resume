@@ -35,7 +35,7 @@ Currently exploring Edge Computing and Cloud Technologies
 <div align="center">
 
 | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/> |
-|
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -43,6 +43,7 @@ Currently exploring Edge Computing and Cloud Technologies
 <div align="center">
 
 | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/> |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -50,14 +51,14 @@ Currently exploring Edge Computing and Cloud Technologies
 <div align="center">
 
 | <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=express" width="65" height="65"/> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65"/> |
-
+|:---:|:---:|:---:|:---:|
 </div>
 
 ### 🤖 AI & Data Science
 <div align="center">
 
 | <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="65" height="65"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65"/> |
-
+|:---:|:---:|:---:|:---:|
 </div>
 
 ---
